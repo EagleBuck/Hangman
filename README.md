@@ -1,2 +1,2 @@
 # Hangman
-Hangman game in Python. Doesn't work yet
+Hangman game in Python. It works great!
